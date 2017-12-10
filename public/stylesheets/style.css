@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#car{
+  margin-top: 10em;
+}
+
+#link{
+  margin-left: 0.2em;
+}
+#b2{
+display: none;
+}
+.myclass{
+display:inline-flex;
+}
+#lin{
+  display: none;
+}
